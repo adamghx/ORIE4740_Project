@@ -1,8 +1,8 @@
 # ORIE4740_Project
 
-Finding Seasonal Effects in Financial Identity Theft Rate in The City of Chicago
+Predicting Presence of Cardiovascular Disease in Patients
 
 Project Team Members: 
 Krishna Raju (kk992), Karan Maheshwari (km857), Adam Guo (hg426)
 
-In this project, we are concerned with whether seasonal effects or other factors play a part in the rise and fall of the financial identity theft rate in Chicago throughout the year. Although financial identity theft does not seem like a major offense, but it is one of the most reported crime in Chicago. Predicting the behavior of those theft criminals could hugely benefit the government agencies in preventing future offenses. In this project, we will be using the 'Crimes in Chicago' dataset from Kaggle, which comprise of Chicago crime data dating from 2001 to 2017.
+In this project, we are concerned with what factors attribute to a person having heart disease. Heart disease is a chronic disease that takes vast amount of resources to treat, and handled inproperly could take away someone life unknownly. By figuring out which factors have the most probabilities of leading to heart diseases, we could monitor those factors for patients, and thus prevent heart disease. For this project, we would seek to build a predictive model using data from the 'Cardiovascular Disease dataset' from Kaggle, which contain heart disease information of 70,000 patients. 
